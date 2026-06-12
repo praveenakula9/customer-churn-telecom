@@ -2,7 +2,7 @@
 
 > Predicting which telecom customers are likely to churn using supervised machine learning, with a focus on maximizing recall on the churn class for real business value.
 
-<!--[![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://python.org)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.4-orange?logo=scikit-learn)](https://scikit-learn.org)
 [![XGBoost](https://img.shields.io/badge/XGBoost-2.0-red)](https://xgboost.readthedocs.io)
 [![LightGBM](https://img.shields.io/badge/LightGBM-4.0-green)](https://lightgbm.readthedocs.io)
@@ -16,10 +16,9 @@
 |---|---|
 | 📓 Notebook | [customer-churn-telecom.ipynb](./customer-churn-telecom.ipynb) |
 | 📊 Dataset | [IBM Telco Churn — Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) |
-| 🚀 Live Demo | *Coming soon — Streamlit deployment* |
+| 🚀 Live Demo | [customer-churn-telecom.streamlit.app](https://customer-churn-telecom.streamlit.app/) |
 
 ---
--->
 ## 🧩 Problem Statement
 
 Customer churn — when a customer stops using a service — is one of the most expensive problems in the telecom industry. Acquiring a new customer costs 5–10x more than retaining an existing one.
