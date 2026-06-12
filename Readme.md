@@ -14,7 +14,7 @@
 
 | Resource | Link |
 |---|---|
-| 📓 Notebook | [customer-churn-telecom.ipynb](./customer-churn-telecom.ipynb) |
+| 📓 Notebook | [customer-churn-telecom.ipynb](https://github.com/praveenakula9/customer-churn-telecom/blob/main/customer-churn-telecom.ipynb) |
 | 📊 Dataset | [IBM Telco Churn — Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) |
 | 🚀 Live Demo | [customer-churn-telecom.streamlit.app](https://customer-churn-telecom.streamlit.app/) |
 
